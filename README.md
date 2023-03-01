@@ -1,5 +1,3 @@
-staging-live-post-sync
-
 **INSTRUCTIONS**
 
 Generate an Application Password on remote site as described here:
